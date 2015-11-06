@@ -41,3 +41,7 @@ Example of usages:
 ![alt tag](https://raw.githubusercontent.com/davidtaboas/Alfred-Todoist/master/screenshots/howto2.png)
 
 Todoist and Rock&Roll!
+
+
+Note: your API key is inside tab "Account", on the Preferences of Todoist
+![captura_de_pantalla_2015-11-06_a_las_20_31_36](https://cloud.githubusercontent.com/assets/725182/11006811/30799a5c-84c6-11e5-8b51-fb933571e5ac.png)
